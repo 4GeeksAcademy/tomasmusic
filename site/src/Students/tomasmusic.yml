@@ -1,0 +1,63 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+    # Profile information
+    first_name: Tomás
+    last_name: Bravo
+    motto: Academy Student
+    avatar: ~
+    summary: |
+        Studying at 4geeks Academy. Interested in Software Development, using Java, Python, Javascript and other tools. 
+         
+
+    # Sidebar links
+    email: tobravor@gmail.com
+    phone: +569 7631 0180
+    website: ~
+    linkedin: https://www.linkedin.com/in/tomas-bravo-ab4b025a/
+    github: tomasmusic
+    twitter: ~
+    stack-overflow: ~
+
+    languages:
+      - idiom: Spanish
+        level: Native
+
+      - idiom: English
+        level: Medium
+
+    interests:
+      - item: Web Development
+      - item: App Development
+      - item: Machine Learning
+
+education: Master degree
+    - degree: 
+      university: Universitad Católica de Chile
+      time: 2003-2010
+
+experiences:
+
+projects:
+
+skills:
+    toolset:
+      - name: Python 
+        level: ~
+
+      - name: Java
+        level: ~
+
+      - name: Javascript
+        level: ~
+
+      - name: HTML5 & CSS
+        level: ~
+
+      - name: Bootstrap
+        level: ~
